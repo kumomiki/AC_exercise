@@ -1,4 +1,4 @@
-# [Movie List](http://ttps://kumomiki.github.io/AC_exercise/movielist/index.html)
+# [Movie List](https://kumomiki.github.io/AC_exercise/movielist/index.html)
 A simple web application for movie fanatic
 
 ## Features
