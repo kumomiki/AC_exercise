@@ -13,3 +13,6 @@ type the title of the movies in search bar
 In index page, press the `+` button on the movie to keep it into favorite list.
 You can checkout the favorite list in `favorite.html`
 press `x` to remove it from favorite list
+
+
+# [Card-Flip Game](https://kumomiki.github.io/AC_exercise/cardflip_game/index.html)
